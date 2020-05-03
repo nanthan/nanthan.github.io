@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "สร้าง Static website เพื่อเขียนบล็อก"
+title:  "[Diary] สร้าง Static website เพื่อเขียนบล็อก"
 date:   2020-05-03 20:54:35 +0700
 # author: Thanwa JINDARATTANA
 ---

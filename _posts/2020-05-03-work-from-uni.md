@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "นั่งทำงานที่มหาลัย"
+title:  "[Diary] นั่งทำงานที่มหาลัย"
 date:   2020-05-03 23:54:35 +0700
 # categories: research
 # author: Thanwa JINDARATTANA
